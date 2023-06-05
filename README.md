@@ -10,7 +10,7 @@
 
 ## Install
 
-**supports a minimum version of python 3.4**
+**very easy to install, supports minimum version of python3.4**
 
 ```bash
 pip install cidres
