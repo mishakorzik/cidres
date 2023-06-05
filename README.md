@@ -15,3 +15,5 @@
 ```bash
 pip install cidres
 ```
+
+**Repository Views** ![Views](https://profile-counter.glitch.me/cidres/count.svg)
